@@ -85,6 +85,9 @@
 >使用方式：
 `./usbip 2021001 10.121.123.123 1-1.3` 將該 IP 的 USB 裝置 Passthrough 到 2021001 裡。
 
+## 建置完成
+![](https://i.imgur.com/qttrBeb.png)
+
 更多相關資料可以參考 sc22 訓練營統一入口網站：
 https://hackmd.io/@NTHUSC/note
 
