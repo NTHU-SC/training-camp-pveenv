@@ -11,7 +11,7 @@
 ![](https://i.imgur.com/d608wU1.png)
 
 ## 安裝
-跑以下 Scipt 前，需要在 PVE 內，先創立至少一種系統的叢集樣本。
+跑以下 Script 前，需要在 PVE 內，先創立至少一種系統的叢集樣本。
 舉例來說如下建立一組 Ubuntu 叢集：
 
 | VMID | Name | 附註 |
