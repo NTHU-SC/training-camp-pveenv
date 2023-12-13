@@ -1,4 +1,5 @@
-arr=($(ls /dev/pve | grep vm-21))
+year=23
+arr=($(ls /dev/pve-ssd | grep vm-${year}))
 echo ${arr[@]}
 for i in ${arr[@]}
 do

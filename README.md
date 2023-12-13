@@ -88,3 +88,12 @@
 更多相關資料可以參考 sc22 訓練營統一入口網站：
 https://hackmd.io/@NTHUSC/note
 
+
+# Troubleshooting
+
+- TASK ERROR: storage migration failed: block job (mirror) error: drive-efidisk0: 'mirror' has been cancelled
+    - Check the template machine is stop.
+- VM Locked:
+    - qm unlock <VMID>
+- Fix config by script
+    - `/etc/pve/qemu-server`
